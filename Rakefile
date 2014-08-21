@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'rubygems'
 $gemspec_file = nil
 $gemspec = nil
